@@ -7,3 +7,5 @@ Recurrent neural networks (RNN) are different from other neural networks in that
 from previous iteration.
 This allows the model to "remember" its previous state and use it in predicting. As a result RNN are known to be very 
 good at time series or sequence prediction problems such as translations, speech recognition, etc.
+
+I will be using Keras library which is built on top of TensorFlow and allows to easily create artificial neural networks: https://keras.io/
